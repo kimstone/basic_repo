@@ -1,0 +1,8 @@
+1 - created repo on GitHub
+2 - performed a git clone to access repo locally
+3 - opened repo folder in visual studio code
+4 - add/edit html file
+5 - add/committed/pushed changes to github via command line
+6 - add/edit css file
+7 - add/committed/pushed changes to github via command line
+8 - visited GitHub to view the changes
